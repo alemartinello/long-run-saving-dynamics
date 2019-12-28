@@ -6,5 +6,5 @@
 
 Files
 ---
-[Paper](https://raw.githubusercontent.com/alemartinello/Papers/master/long-run-saving-dynamics/paper.pdf), 
-[Appendix](https://raw.githubusercontent.com/alemartinello/Papers/master/long-run-saving-dynamics/paper.pdf)
+[Paper](https://raw.githubusercontent.com/alemartinello/long-run-saving-dynamics/blob/master/paper/paper.pdf), 
+[Appendix](https://raw.githubusercontent.com/alemartinello/long-run-saving-dynamics/blob/master/paper/appendix.pdf)
